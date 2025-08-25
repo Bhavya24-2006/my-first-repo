@@ -1,0 +1,3 @@
+Name: K.Bhavya
+Course: Bsc-Data Science
+About Github: It is an online platform that helps to create, edit adn store the data.
